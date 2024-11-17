@@ -1,0 +1,20 @@
+{
+  "unionedAuthors": [
+    [
+      "Ch Hanan Hadayat",
+      "hananinas"
+    ]
+  ],
+  "hiddenFiles": [
+    "*.txt",
+    "*.jpg",
+    "*.gif",
+    "*.json",
+    "*.svg",
+    "*.png",
+    "*.lock",
+    "*.gitignore",
+    "*.md",
+    "*.yml"
+  ]
+}
